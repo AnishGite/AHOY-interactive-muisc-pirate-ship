@@ -11,3 +11,7 @@ Features-
 4.Enjoy!
 
 Inspiration- From High Seas
+
+Disclaimer-
+
+All the code is made by me but I took refrence and inspiration from Pintrest and the Internet and I also took help of ai in some part of the code.
